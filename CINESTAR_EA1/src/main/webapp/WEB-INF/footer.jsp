@@ -1,12 +1,6 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
-</head>
-<body>
-
-</body>
-</html>
+<%@ page pageEncoding="UTF-8"%>
+<footer>
+	<div class="contenido-footer">
+		<p>Copyright © 2016 ® Multicines CINESTAR - Todos los Derechos Reservados</p>
+	</div>
+</footer>
