@@ -19,4 +19,14 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>svlCine</display-name>
+    <servlet-name>svlCine</servlet-name>
+    <servlet-class>svl.svlCine</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>svlCine</servlet-name>
+    <url-pattern>/svlCine</url-pattern>
+  </servlet-mapping>
 </web-app>
